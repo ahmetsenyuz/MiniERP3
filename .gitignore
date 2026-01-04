@@ -1,0 +1,20 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore NuGet packages
+packages/
+
+# Ignore IDE-specific files
+.idea/
+.vs/
+
+# Ignore local settings
+appsettings.Development.json
+
+# Ignore environment files
+.env
